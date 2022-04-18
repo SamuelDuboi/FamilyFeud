@@ -1,0 +1,493 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4011302034863358703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2665774445014755593}
+  - component: {fileID: 3575866520982563078}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2665774445014755593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4011302034863358703}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.3603427, y: 1.0472004, z: -0.3022601}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3575866520982563078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4011302034863358703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1fc97ba6d6fdc2448323fd589d7a087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  answers:
+  - answers:
+    - "La r\uFFFDpute"
+    - La pation
+    - Pourquoi pas
+    - NO answer
+    - No answer
+    purcentages: 3c0000001e0000000a0000000000000000000000
+    question: "Donne une raison pour venir \uFFFD Rubika"
+  - answers:
+    - l'Amour
+    - Microbe
+    - Sensation
+    - Bonne nouvelles aux infos
+    - Le charisme d'Hugo
+    purcentages: 1e0000001e0000001e0000000500000005000000
+    question: Quelle est une chose qui existe mais que tu ne vois pas ?
+  - answers:
+    - Plante
+    - Canabis
+    - La culture
+    - Une balancoire ?
+    - No Answer
+    purcentages: 460000000f0000000a0000000500000000000000
+    question: Donne une chose que tu peux pousser.
+  - answers:
+    - Pates
+    - Pizza
+    - Risotto
+    - Tiramisu
+    - No Answer
+    purcentages: 460000000f0000000a0000000500000000000000
+    question: Donne un plat italien
+  - answers:
+    - Wing suit
+    - UFC
+    - Rafting
+    - Escalade
+    - Bucheronnage sportif
+    purcentages: 2300000019000000190000000f00000005000000
+    question: Le sport le plus dangereux ?
+  - answers:
+    - Relation sentimentale
+    - Politique
+    - Orientation sexuelle
+    - Mort d'un proche
+    - Argent
+    purcentages: 2d000000230000000f0000000a00000005000000
+    question: La pire question a poser dans un repas de famille
+  - answers:
+    - Choux de Bruxelle
+    - boudin
+    - Radis
+    - "Fromage r\uFFFDgional"
+    - tofu
+    purcentages: 280000000f0000000f0000000f0000000f000000
+    question: "Un aliment que tout le monde d\uFFFDteste."
+  - answers:
+    - Enterrement
+    - Tribunal
+    - Discour sur le cancer
+    - "comm\uFFFDmoration"
+    - test de calme
+    purcentages: 5000000005000000050000000500000005000000
+    question: "Un \uFFFDv\uFFFDnement ou il ne faut absolument pas rigoler."
+  - answers:
+    - Photo
+    - Age
+    - Hobbie
+    - Metier
+    - No Answer
+    purcentages: 1e0000001e000000140000000a00000000000000
+    question: Sur quoi mentir sur son profil Tinder ?(ou tout autres applis de rencontre).
+  - answers:
+    - Bruyant
+    - Pas drole
+    - Rends pas les affaires
+    - Jaloux
+    - Espion
+    purcentages: 28000000140000000f0000000f0000000a000000
+    question: "Donne le pire d\uFFFDfaut d'un voisin chiant."
+  - answers:
+    - Frites
+    - Pates
+    - Pain
+    - NO answer
+    - No answer
+    purcentages: 4b00000014000000050000000000000000000000
+    question: "Le meilleur plat \uFFFD la cantoch ( self, cantine, RU qu'import comment
+      tu l'appelle c'est la ou tu mange)."
+  - answers:
+    - Matos informatique
+    - Maison
+    - Matos de hobbie
+    - cadeau aux potes
+    - Plat cher
+    purcentages: 2800000019000000140000000a00000005000000
+    question: "Premi\uFFFDre chose que tu ach\uFFFDte quand tu gagne au loto."
+  - answers:
+    - Just do it
+    - Carglass
+    - Haribo
+    - Durex
+    - Point s
+    purcentages: 1e00000019000000190000000f00000005000000
+    question: "Donne un slogan de publicit\uFFFD."
+  - answers:
+    - Coca
+    - Ice tea
+    - Vodka
+    - Biere
+    - Tisane
+    purcentages: 320000001e0000000a0000000500000005000000
+    question: "Donne une boisson populaire en soir\uFFFDe"
+  - answers:
+    - Manger
+    - Aucune
+    - Sport
+    - Rendez-vous
+    - Dessiner
+    purcentages: 28000000190000000f0000000a0000000a000000
+    question: "Quelle est la raison pour te lever du lit t\uFFFDt ?"
+  - answers:
+    - Fantome
+    - Clown
+    - Squelette
+    - Jacque Sparrow
+    - Vendredi 13
+    purcentages: 28000000140000000f0000000f0000000a000000
+    question: Le meilleur costume d'Halloween
+  - answers:
+    - "Cin\uFFFD"
+    - "Mus\uFFFDe"
+    - Etang/Escaut
+    - Match de sport
+    - 'Boire des coups '
+    purcentages: 320000001e0000000f0000000500000028000000
+    question: "Donne une chose \uFFFD faire \uFFFD Valenciennes"
+  - answers:
+    - Tabac
+    - Drogue
+    - Ecran
+    - Mentir
+    - Alcool
+    purcentages: 2800000014000000140000000f00000005000000
+    question: "Qu'est ce que des parents interdisent \uFFFD leur enfant ?"
+  - answers:
+    - La mer
+    - Voyager
+    - Sortir avec des potes
+    - Temps libre
+    - Chaleur
+    purcentages: 1e00000019000000140000000f0000000a000000
+    question: "Ce que tu attend le plus en \uFFFDt\uFFFD."
+  - answers:
+    - Cafe
+    - Cine
+    - Resto
+    - "Mus\uFFFDe"
+    - Patinoire
+    purcentages: 2300000019000000140000000a0000000a000000
+    question: Donne le meilleur endroit pour un premier date.
+  - answers:
+    - Nutella
+    - confiture
+    - Beurre
+    - Miel
+    - Guacamole
+    purcentages: 2800000014000000140000000a0000000a000000
+    question: "Donne une chose \uFFFD tartiner sur ton toast"
+  - answers:
+    - Toilette
+    - En cours
+    - En date
+    - en cuisinant
+    - Entretien d'embauche
+    purcentages: 32000000140000000a0000000a0000000a000000
+    question: "Quel est un mauvais moment pour r\uFFFDpondre au tel ?"
+  - answers:
+    - "R\uFFFDussite"
+    - possession
+    - intelligence
+    - animaux de compagnie
+    - No Answer
+    purcentages: 3200000014000000140000000a00000000000000
+    question: De quoi on se vente le plus ?
+  - answers:
+    - Pleurer
+    - Musique
+    - Manger
+    - No Answer
+    - No Answer
+    purcentages: 32000000280000000a0000000000000000000000
+    question: Qu'est-ce que l'on fait quand on est triste ?
+  - answers:
+    - Serveur
+    - Portier
+    - Striptease
+    - coiffeur
+    - voiturier
+    purcentages: 3c0000000f0000000a0000000a00000005000000
+    question: "Donne un m\uFFFDtier ou l'on peut recevoir des pourboires"
+  - answers:
+    - "Bourr\uFFFD au volant"
+    - Vol
+    - Avoir froid
+    - Invasion extraterrestre
+    - No answer
+    purcentages: 28000000280000000a0000000a00000000000000
+    question: Donne une raison pour passer la nuit au commissariat.
+  - answers:
+    - Pornographie
+    - journal intime
+    - cigarrette
+    - gateaux
+    - argent
+    purcentages: 1e0000001e0000000f0000000f0000000a000000
+    question: "Qu'est-ce que tu cache dans ta chambre que ta m\uFFFDre ne doit jamais
+      voir?"
+  - answers:
+    - Aucune bonne raison
+    - Test28
+    - Test29
+    - Test30
+    - Test31
+    purcentages: 7500000025000000260000002700000028000000
+    question: Donne quelque chose de chaud.
+  - answers:
+    - Aucune bonne raison
+    - Test29
+    - Test30
+    - Test31
+    - Test32
+    purcentages: 7600000026000000270000002800000029000000
+    question: Le pire endroit pour faire la queue (la file d'attente)
+  - answers:
+    - Aucune bonne raison
+    - Test30
+    - Test31
+    - Test32
+    - Test33
+    purcentages: 770000002700000028000000290000002a000000
+    question: "Le meilleur objet pour \uFFFDgailler ta maison "
+  - answers:
+    - Aucune bonne raison
+    - Test31
+    - Test32
+    - Test33
+    - Test34
+    purcentages: 7800000028000000290000002a0000002b000000
+    question: Donne un surnom mignon de couple.
+  - answers:
+    - Aucune bonne raison
+    - Test32
+    - Test33
+    - Test34
+    - Test35
+    purcentages: 79000000290000002a0000002b0000002c000000
+    question: "Donne une chose pour laquelle des l\uFFFDvres sont faites pour (essaye
+      plus loin que ta premi\uFFFDre r\uFFFDponse personne \uFFFD l'esprit malsain)."
+  - answers:
+    - Aucune bonne raison
+    - Test33
+    - Test34
+    - Test35
+    - Test36
+    purcentages: 7a0000002a0000002b0000002c0000002d000000
+    question: Donne quelque chose que tu pourrais briser.
+  - answers:
+    - Aucune bonne raison
+    - Test34
+    - Test35
+    - Test36
+    - Test37
+    purcentages: 7b0000002b0000002c0000002d0000002e000000
+    question: "Donne la chose que des enfants d\uFFFDtestent manger."
+  - answers:
+    - Aucune bonne raison
+    - Test35
+    - Test36
+    - Test37
+    - Test38
+    purcentages: 7c0000002c0000002d0000002e0000002f000000
+    question: "La premi\uFFFDre chose que tu fais apr\uFFFDs avoir rompu."
+  - answers:
+    - Aucune bonne raison
+    - Test36
+    - Test37
+    - Test38
+    - Test39
+    purcentages: 7d0000002d0000002e0000002f00000030000000
+    question: Donne une raison pour rentrer chez toi avant la fin des cours.
+  - answers:
+    - Aucune bonne raison
+    - Test37
+    - Test38
+    - Test39
+    - Test40
+    purcentages: 7e0000002e0000002f0000003000000031000000
+    question: Donne une allergie super chiante
+  - answers:
+    - Aucune bonne raison
+    - Test38
+    - Test39
+    - Test40
+    - Test41
+    purcentages: 7f0000002f000000300000003100000032000000
+    question: "Qu'est-ce qu'on peut trouver dans un mus\uFFFDe"
+  - answers:
+    - Aucune bonne raison
+    - Test39
+    - Test40
+    - Test41
+    - Test42
+    purcentages: 8000000030000000310000003200000033000000
+    question: "Donne le premier mot commen\uFFFDant par che."
+  - answers:
+    - Aucune bonne raison
+    - Test40
+    - Test41
+    - Test42
+    - Test43
+    purcentages: 8100000031000000320000003300000034000000
+    question: Donne une raison pour annuler un rendez vous
+  - answers:
+    - Aucune bonne raison
+    - Test41
+    - Test42
+    - Test43
+    - Test44
+    purcentages: 8200000032000000330000003400000035000000
+    question: Donne une chose sur laquelle tu t'assoirais.
+  - answers:
+    - Aucune bonne raison
+    - Test42
+    - Test43
+    - Test44
+    - Test45
+    purcentages: 8300000033000000340000003500000036000000
+    question: "Quelle est la premi\uFFFDre chose que tu fais quand tu te r\uFFFDveille
+      ?"
+  - answers:
+    - Aucune bonne raison
+    - Test43
+    - Test44
+    - Test45
+    - Test46
+    purcentages: 8400000034000000350000003600000037000000
+    question: "Quel est ton sport pr\uFFFDf\uFFFDr\uFFFD ?"
+  - answers:
+    - Aucune bonne raison
+    - Test44
+    - Test45
+    - Test46
+    - Test47
+    purcentages: 8500000035000000360000003700000038000000
+    question: "Donne une s\uFFFDrie populaire"
+  - answers:
+    - Aucune bonne raison
+    - Test45
+    - Test46
+    - Test47
+    - Test48
+    purcentages: 8600000036000000370000003800000039000000
+    question: "Donne une raison pour faire la f\uFFFDte"
+  - answers:
+    - Aucune bonne raison
+    - Test46
+    - Test47
+    - Test48
+    - Test49
+    purcentages: 870000003700000038000000390000003a000000
+    question: Donne la meilleur raison pour avoir un chien.
+  - answers:
+    - Aucune bonne raison
+    - Test47
+    - Test48
+    - Test49
+    - Test50
+    purcentages: 8800000038000000390000003a0000003b000000
+    question: "Quel est la chose \uFFFD ne pas oublier pour un camping ?"
+  - answers:
+    - Aucune bonne raison
+    - Test48
+    - Test49
+    - Test50
+    - Test51
+    purcentages: 89000000390000003a0000003b0000003c000000
+    question: "Donne un ingr\uFFFDdient a mettre dans des cr\uFFFDpes (et pas des
+      galettes sinon les bretons vont pas nous aimer)."
+  - answers:
+    - Aucune bonne raison
+    - Test49
+    - Test50
+    - Test51
+    - Test52
+    purcentages: 8a0000003a0000003b0000003c0000003d000000
+    question: "Le pire cadeau \uFFFD donner \uFFFD Noel"
+  - answers:
+    - Aucune bonne raison
+    - Test50
+    - Test51
+    - Test52
+    - Test53
+    purcentages: 8b0000003b0000003c0000003d0000003e000000
+    question: Selon toi, quel sera le prochain remake Disney ?
+  - answers:
+    - Aucune bonne raison
+    - Test51
+    - Test52
+    - Test53
+    - Test54
+    purcentages: 8c0000003c0000003d0000003e0000003f000000
+    question: "La pire chose \uFFFD laisser allumer chez toi quand tu part."
+  - answers:
+    - Aucune bonne raison
+    - Test52
+    - Test53
+    - Test54
+    - Test55
+    purcentages: 8d0000003d0000003e0000003f00000040000000
+    question: Donne un animal domestique exotique (pas ton poisson rouge en gros).
+  - answers:
+    - Aucune bonne raison
+    - Test53
+    - Test54
+    - Test55
+    - Test56
+    purcentages: 8e0000003e0000003f0000004000000041000000
+    question: Donne une raison pour avoir les yeux bander
+  - answers:
+    - Aucune bonne raison
+    - Test54
+    - Test55
+    - Test56
+    - Test57
+    purcentages: 8f0000003f000000400000004100000042000000
+    question: "\"Donne un m\uFFFDtier sale mais \"\"h\uFFFD il faut bien quelqu'un
+      pour le faire\"\".\""
+  - answers:
+    - Aucune bonne raison
+    - Test55
+    - Test56
+    - Test57
+    - Test58
+    purcentages: 9000000040000000410000004200000043000000
+    question: Qu'est ce que l'on perd facilement ?
+  myReponses: {fileID: 11400000, guid: 52c9f574fa7314744bd55cf06bcbd77f, type: 2}

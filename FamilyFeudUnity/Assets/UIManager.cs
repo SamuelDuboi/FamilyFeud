@@ -4,7 +4,6 @@ using UnityEngine;
 using TMPro;
 public class UIManager : MonoBehaviour
 {
-    public ReadCSV readCSV;
     public List<TextMeshProUGUI> texts;
     public TextMeshProUGUI question;
     public TextMeshProUGUI team1Score;
@@ -15,7 +14,7 @@ public class UIManager : MonoBehaviour
     public AudioSource mainSound;
     public AudioSource yes;
     public AudioSource no;
-
+    public ReponsesStock answers;
     // Update is called once per frame
     void Update()
     {
@@ -79,22 +78,22 @@ public class UIManager : MonoBehaviour
     }
     private void ActiveNumber1(int number )
     {
-        if (texts[number].text != number.ToString())
+        if (texts[number].text == number.ToString())
             return;
         yes.Play();
-        texts[number].text = readCSV.reponses[currentNumber].answers[number] + " " + readCSV.reponses[currentNumber].purcentages[number];
+        texts[number].text = answers.answers[currentNumber].answers[number] + " " + answers.answers[currentNumber].purcentages[number];
         int score = int.Parse(team1Score.text);
-        score += readCSV.reponses[currentNumber].purcentages[number];
+        score += answers.answers[currentNumber].purcentages[number];
         team1Score.text = score.ToString();
     }
     private void ActiveNumber2(int number)
     {
-        if (texts[number].text != number.ToString())
+        if (texts[number].text == number.ToString())
             return;
         yes.Play();
-        texts[number].text = readCSV.reponses[currentNumber].answers[number] + " " + readCSV.reponses[currentNumber].purcentages[number];
+        texts[number].text = answers.answers[currentNumber].answers[number] + " " + answers.answers[currentNumber].purcentages[number];
         int score = int.Parse(team2Score.text);
-        score += readCSV.reponses[currentNumber].purcentages[number];
+        score += answers.answers[currentNumber].purcentages[number];
         team2Score.text = score.ToString();
     }
 
@@ -104,7 +103,7 @@ public class UIManager : MonoBehaviour
         mainSound.Stop();
         string value = currentSlide.text;
         currentNumber =(int) float.Parse(value);
-        question.text = readCSV.reponses[currentNumber].question;
+        question.text = answers.answers[currentNumber].question;
         for (int i = 0; i < texts.Count; i++)
         {
             texts[i].text = (i+1).ToString();
@@ -116,7 +115,7 @@ public class UIManager : MonoBehaviour
         mainSound.Stop();
         currentNumber += nextNumber;
         currentSlide.text = currentNumber.ToString();
-        question.text = readCSV.reponses[currentNumber].question;
+        question.text = answers.answers[currentNumber].question;
         for (int i = 0; i < texts.Count; i++)
         {
             texts[i].text = i.ToString();

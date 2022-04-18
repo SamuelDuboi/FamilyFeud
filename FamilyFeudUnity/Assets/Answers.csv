@@ -1,32 +1,31 @@
 Question;Answer1 ;Pourcentage1;Answer2;Pourcentage2;Answer3;Pourcentage3;Answer4;Pourcentage4;Answer5;Pourcentage5
-Donne une raison pour venir à Rubika;Aucune bonne raison;89;Test0;9;Test1;10;Test2;11;Test3;12
-Quelle est une chose qui existe mais que tu ne vois pas ?;Aucune bonne raison;90;Test1;10;Test2;11;Test3;12;Test4;13
-Donne une chose que tu peux pousser.;Aucune bonne raison;91;Test2;11;Test3;12;Test4;13;Test5;14
-Donne un plat italien;Aucune bonne raison;92;Test3;12;Test4;13;Test5;14;Test6;15
-Le sport le plus dangereux ?;Aucune bonne raison;93;Test4;13;Test5;14;Test6;15;Test7;16
-La pire question a poser dans un repas de famille;Aucune bonne raison;94;Test5;14;Test6;15;Test7;16;Test8;17
-Un aliment que tout le monde déteste.;Aucune bonne raison;95;Test6;15;Test7;16;Test8;17;Test9;18
-Un évènement ou il ne faut absolument pas rigoler.;Aucune bonne raison;96;Test7;16;Test8;17;Test9;18;Test10;19
-Sur quoi mentir sur son profil Tinder ?(ou tout autres applis de rencontre).;Aucune bonne raison;97;Test8;17;Test9;18;Test10;19;Test11;20
-Donne le pire défaut d'un voisin chiant.;Aucune bonne raison;98;Test9;18;Test10;19;Test11;20;Test12;21
-Le meilleur plat à la cantoch ( self, cantine, RU qu'import comment tu l'appelle c'est la ou tu mange).;Aucune bonne raison;99;Test10;19;Test11;20;Test12;21;Test13;22
-Un mot qui rime avec Rubika;Aucune bonne raison;100;Test11;20;Test12;21;Test13;22;Test14;23
-Première chose que tu achète quand tu gagne au loto.;Aucune bonne raison;101;Test12;21;Test13;22;Test14;23;Test15;24
-Donne un slogan de publicité.;Aucune bonne raison;102;Test13;22;Test14;23;Test15;24;Test16;25
-Donne une boisson populaire en soirée;Aucune bonne raison;103;Test14;23;Test15;24;Test16;25;Test17;26
-Quelle est la raison pour te lever du lit tôt ?;Aucune bonne raison;104;Test15;24;Test16;25;Test17;26;Test18;27
-Le meilleur costume d'Halloween;Aucune bonne raison;105;Test16;25;Test17;26;Test18;27;Test19;28
-Donne une chose à faire à Valenciennes;Aucune bonne raison;106;Test17;26;Test18;27;Test19;28;Test20;29
-Qu'est ce que des parents interdisent à leur enfant ?;Aucune bonne raison;107;Test18;27;Test19;28;Test20;29;Test21;30
-Ce que tu attend le plus en été.;Aucune bonne raison;108;Test19;28;Test20;29;Test21;30;Test22;31
-Donne le meilleur endroit pour un premier date.;Aucune bonne raison;109;Test20;29;Test21;30;Test22;31;Test23;32
-Donne une chose à tartiner sur ton toast;Aucune bonne raison;110;Test21;30;Test22;31;Test23;32;Test24;33
-Quel est un mauvais moment pour répondre au tel ?;Aucune bonne raison;111;Test22;31;Test23;32;Test24;33;Test25;34
-De quoi on se vente le plus ?;Aucune bonne raison;112;Test23;32;Test24;33;Test25;34;Test26;35
-Qu'est-ce que l'on fait quand on est triste ?;Aucune bonne raison;113;Test24;33;Test25;34;Test26;35;Test27;36
-Donne un métier ou l'on peut recevoir des pourboires;Aucune bonne raison;114;Test25;34;Test26;35;Test27;36;Test28;37
-Donne une raison pour passer la nuit au commissariat.;Aucune bonne raison;115;Test26;35;Test27;36;Test28;37;Test29;38
-Qu'est-ce que tu cache dans ta chambre que ta mère ne doit jamais voir?;Aucune bonne raison;116;Test27;36;Test28;37;Test29;38;Test30;39
+Donne une raison pour venir à Rubika;La répute;60;La pation;30;Pourquoi pas;10;NO answer;0;No answer;0
+Quelle est une chose qui existe mais que tu ne vois pas ?;l'Amour;30;Microbe;30;Sensation;30;Bonne nouvelles aux infos;5;Le charisme d'Hugo;5
+Donne une chose que tu peux pousser.;Plante;70;Canabis;15;La culture;10;Une balancoire ?;5;No Answer;0
+Donne un plat italien;Pates;70;Pizza;15;Risotto;10;Tiramisu;5;No Answer;0
+Le sport le plus dangereux ?;Wing suit;35;UFC;25;Rafting;25;Escalade;15;Bucheronnage sportif;5
+La pire question a poser dans un repas de famille;Relation sentimentale;45;Politique;35;Orientation sexuelle;15;Mort d'un proche;10;Argent;5
+Un aliment que tout le monde déteste.;Choux de Bruxelle;40;boudin;15;Radis;15;Fromage régional;15;tofu;15
+Un évènement ou il ne faut absolument pas rigoler.;Enterrement;80;Tribunal;5;Discour sur le cancer;5;commémoration;5;test de calme;5
+Sur quoi mentir sur son profil Tinder ?(ou tout autres applis de rencontre).;Photo;30;Age;30;Hobbie;20;Metier;10;No Answer;0
+Donne le pire défaut d'un voisin chiant.;Bruyant;40;Pas drole;20;Rends pas les affaires;15;Jaloux;15;Espion;10
+Le meilleur plat à la cantoch ( self, cantine, RU qu'import comment tu l'appelle c'est la ou tu mange).;Frites;75;Pates;20;Pain;5;NO answer;0;No answer;0
+Première chose que tu achète quand tu gagne au loto.;Matos informatique;40;Maison;25;Matos de hobbie;20;cadeau aux potes;10;Plat cher;5
+Donne un slogan de publicité.;Just do it;30;Carglass;25;Haribo;25;Durex;15;Point s;5
+Donne une boisson populaire en soirée;Coca;50;Ice tea;30;Vodka;10;Biere;5;Tisane;5
+Quelle est la raison pour te lever du lit tôt ?;Manger;40;Aucune;25;Sport;15;Rendez-vous;10;Dessiner;10
+Le meilleur costume d'Halloween;Fantome;40;Clown;20;Squelette;15;Jacque Sparrow;15;Vendredi 13;10
+Donne une chose à faire à Valenciennes;Ciné;50;Musée;30;Etang/Escaut;15;Match de sport;5;Boire des coups ;40
+Qu'est ce que des parents interdisent à leur enfant ?;Tabac;40;Drogue;20;Ecran;20;Mentir;15;Alcool;5
+Ce que tu attend le plus en été.;La mer;30;Voyager;25;Sortir avec des potes;20;Temps libre;15;Chaleur;10
+Donne le meilleur endroit pour un premier date.;Cafe;35;Cine;25;Resto;20;Musée;10;Patinoire;10
+Donne une chose à tartiner sur ton toast;Nutella;40;confiture;20;Beurre;20;Miel;10;Guacamole;10
+Quel est un mauvais moment pour répondre au tel ?;Toilette;50;En cours;20;En date;10;en cuisinant;10;Entretien d'embauche;10
+De quoi on se vente le plus ?;Réussite;50;possession;20;intelligence;20;animaux de compagnie;10;No Answer;0
+Qu'est-ce que l'on fait quand on est triste ?;Pleurer;50;Musique;40;Manger;10;No Answer;0;No Answer;0
+Donne un métier ou l'on peut recevoir des pourboires;Serveur;60;Portier;15;Striptease;10;coiffeur;10;voiturier;5
+Donne une raison pour passer la nuit au commissariat.;Bourré au volant;40;Vol;40;Avoir froid;10;Invasion extraterrestre;10;No answer;0
+Qu'est-ce que tu cache dans ta chambre que ta mère ne doit jamais voir?;Pornographie;30;journal intime;30;cigarrette;15;gateaux;15;argent;10
 Donne quelque chose de chaud.;Aucune bonne raison;117;Test28;37;Test29;38;Test30;39;Test31;40
 Le pire endroit pour faire la queue (la file d'attente);Aucune bonne raison;118;Test29;38;Test30;39;Test31;40;Test32;41
 Le meilleur objet pour égailler ta maison ;Aucune bonne raison;119;Test30;39;Test31;40;Test32;41;Test33;42

@@ -3,21 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using UnityEditor;
-public class ReadCSV : MonoBehaviour
+public static class ReadCSV 
 {
-    public List<Reponses> reponses = new List<Reponses>();
-    // Start is called before the first frame update
-    void Start()
-    {
-        ReadCsv();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    public void ReadCsv()
+    public static void ReadCsv(out List<Reponses> reponses)
     {
         var csv = new List<string[]>(); // or, List<YourClass>
         var guiPath = AssetDatabase.FindAssets("Answers");
@@ -27,6 +15,7 @@ public class ReadCSV : MonoBehaviour
             csv.Add(line.Split(';')); // or, populate YourClass
         csv.RemoveAt(0);
         //save = new Save();
+        reponses = new List<Reponses>();
         foreach (var answer in csv)
         {
             var reponse = new List<string>();
@@ -38,6 +27,5 @@ public class ReadCSV : MonoBehaviour
             }
             reponses.Add(new Reponses(reponse.ToArray(), pourcentage.ToArray(), answer[0]));
         }
-
     }
 }
